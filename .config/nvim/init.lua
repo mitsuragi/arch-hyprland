@@ -1,0 +1,13 @@
+require("core.plugins")
+require("core.config")
+
+require("plugins.lsp")
+require("plugins.cmp")
+require("plugins.neotree")
+require("plugins.treesitter")
+require("plugins.telescope")
+require("plugins.lualine")
+require("plugins.autopairs")
+require("plugins.barbar")
+require("plugins.comment")
+require("plugins.toggleterm")
